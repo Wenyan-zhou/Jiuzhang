@@ -1,0 +1,7 @@
+Binary Search
+Classical Binary Search
+
+Given an sorted integer array - nums, and an integer - target. Find the any/first/last position of target in nums, 
+return -1 if target doesn’t exist.
+
+public int binarySearch(int[] nums, int target)
